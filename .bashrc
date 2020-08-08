@@ -131,6 +131,3 @@ fi
 # Created by `userpath` on 2019-12-04 10:22:46
 export PATH="$PATH:/home/julius/.local/bin"
 
-source /opt/ros/melodic/setup.bash
-source ~/Workspace/catkin_ws/devel/setup.bash
-
