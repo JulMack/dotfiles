@@ -14,7 +14,6 @@ call plug#begin('~/.vim/plugged')
 
 Plug 'tpope/vim-surround'
 Plug 'jeffkreeftmeijer/vim-numbertoggle'
-Plug 'taketwo/vim-ros'
 " Tutorial for YCM: https://github.com/ycm-core/YouCompleteMe#full-installation-guide
 Plug 'Valloric/YouCompleteMe'
 
