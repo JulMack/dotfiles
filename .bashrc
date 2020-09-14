@@ -131,3 +131,5 @@ fi
 # Created by `userpath` on 2019-12-04 10:22:46
 export PATH="$PATH:/home/julius/.local/bin"
 
+alias python=python3
+alias pip=pip3
